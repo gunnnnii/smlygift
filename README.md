@@ -31,7 +31,7 @@ Currently the bot supports 5 operations in the chat
 - `balance!`
   > Sends you information about your balance, amount and its current address
 - `help!`
-  > Sends you roughly this message
+  > Sends you roughly this list of commands ^^
 
 Some behaviour hasn't quite been defined. I've still got to work out what should happen when withdrawing/deleting without a return address. Assume funds will be lost for now.
 
