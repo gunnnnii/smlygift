@@ -19,7 +19,6 @@ Notice that the format of `tip: 20!` is required. The bot matches to op and uses
 #### direct messaging
 
 Currently the bot supports 5 operations in the chat
-/((address:\s\*.{34})|(balance)|(withdraw)|(delete)|(help))!/gi
 
 - `address: {your desired return address}!`
   > Sets or updates the return address on your account. This is the address the funds will be sent to in case you do withdraw
@@ -76,4 +75,4 @@ The project is split into 3 main sections
 - A twitter developer account and an app with the relevant keys and permissions
 - PostgreSQL 10.10
 
-> Author: Gunnar Ingi Stefánsson (gis20@hi.is)[mailto:gis20@hi.is]
+> Author: Gunnar Ingi Stefánsson gis20@hi.is
