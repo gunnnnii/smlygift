@@ -39,12 +39,13 @@ The project is written in Typescript using NodeJS and making extensive use of th
 
 #### Running
 
-Start by running
+Start by cloning the repo, and running the smileycoin daemon
 
 ```
 git clone {this repo}
 cd smlygift
 yarn install
+smileycoind
 ```
 
 Then set up your `.env` file following the example
