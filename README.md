@@ -1,6 +1,6 @@
 ### smlygift
 
-This program allows twitter users to tip each other using the SmileyCoin cryptocurrency protocol. The bot responds automatically to mentions and direct messages depositing to your account address is the only thing that happens outside of Twitter.
+This program allows twitter users to tip each other using the SmileyCoin cryptocurrency protocol. The bot responds automatically to mentions and direct messages so depositing to your account address is the only thing that happens outside of Twitter.
 
 #### tipping
 
