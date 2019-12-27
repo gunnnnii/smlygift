@@ -2,7 +2,7 @@
 
 This program allows twitter users to tip each other using the SmileyCoin cryptocurrency protocol. The bot responds automatically to mentions and direct messages so depositing to your account address is the only thing that happens outside of Twitter.
 
-The bot's twitter handle is [@smlygift](https://twitter.com/smlygift)
+The bot's twitter handle is [@smlygift](https://twitter.com/smlygift) (not currently active)
 
 #### tipping
 
